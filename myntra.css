@@ -1,0 +1,20 @@
+.bag{
+  border-radius: 10px;
+  border: none;
+  background-color: green;
+  padding: 10px;
+  color: white;
+}
+.wishlist{
+  border-color: black;
+  border-width: 2px;
+  border-radius: 10px;
+  padding: 8px 26px 8px 26px;
+}
+.add{
+  border-radius: 10px;
+  border: none;
+  background-color: green;
+  padding: 10px;
+  color: white;
+}
